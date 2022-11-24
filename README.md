@@ -1,5 +1,5 @@
-# Accademy_11_22
-## Accademy NTT Data
+# Academy_11_22
+## Academy NTT Data
 ### In this section you can find all the material: slide and code
 For a question contact me with skype [Skype Profile](https://join.skype.com/invite/fkw5ggvn4co5). 
 
