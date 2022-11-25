@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56de78bb-b73a-421b-9be8-cfaf998ead7c" name="Changes" comment="" />
+    <list default="true" id="56de78bb-b73a-421b-9be8-cfaf998ead7c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academy/bin/academy/it/corso/Main$Level.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/academy/bin/academy/it/corso/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/academy/bin/academy/it/corso/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academy/src/academy/it/corso/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/academy/src/academy/it/corso/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,14 +21,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/alessandrosallese/Accademy1122/code"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/alessandrosallese/Accademy1122/code&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,6 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669243400854</updated>
       <workItem from="1669243402390" duration="14000" />
+      <workItem from="1669299102726" duration="618000" />
     </task>
     <servers />
   </component>
