@@ -1,7 +1,7 @@
 package it.academy.giorni;
 
 public class ArrayExample {
-    public static void main (){
+    public static void main(String[] args) {
         String [] nomi = {"Lunedì", "Martedì","Mercoledì","Giovedì","Venderdì","Sabato","Domenica"};
         System.out.println("Stampa con ciclo for");
         for(int i=0; i < nomi.length; i++){
