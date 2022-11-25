@@ -17,7 +17,7 @@ public class Giorni {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Scivi un numero di un gionro tras 1 e 7");
-        System.out.println("Il giorno corrispettivo è: \n");
+        System.out.println("Il giorno corrispettivo è:");
         switch (scanner.nextInt()) {
             case 1:
                 System.out.println(Day.LUNEDI);

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56de78bb-b73a-421b-9be8-cfaf998ead7c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/academy/bin/academy/it/corso/Main$Level.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/academy/bin/academy/it/corso/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/academy/bin/academy/it/corso/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/academy/src/academy/it/corso/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/academy/src/academy/it/corso/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GiorniEnum/out/production/GiorniEnum/it/academy/giorni/Giorni.class" beforeDir="false" afterPath="$PROJECT_DIR$/GiorniEnum/out/production/GiorniEnum/it/academy/giorni/Giorni.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GiorniEnum/src/it/academy/giorni/Giorni.java" beforeDir="false" afterPath="$PROJECT_DIR$/GiorniEnum/src/it/academy/giorni/Giorni.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
