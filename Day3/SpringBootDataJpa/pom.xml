@@ -8,7 +8,7 @@
         <version>2.2.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>it.univaq.tp</groupId>
+    <groupId>it.ntt.academy</groupId>
     <artifactId>SpringBootDataJpa</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>SpringBootDataJpa</name>

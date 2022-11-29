@@ -5,7 +5,7 @@
         <title>SpringDataJPA</title>
     </head>
     <body>
-        <h2> Menù: </h2>
+        <h2> Menu: </h2>
         
         <br/>
         <a href="${pageContext.request.contextPath}/employee/home"> Employees mangement </a> <br>
