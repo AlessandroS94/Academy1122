@@ -15,5 +15,6 @@ public class Main {
         System.out.println("--------------------------");
         tv.cambiaCanaleHub(1);
         System.out.println(tv.getCanaleGuardato());
+
     }
 }
