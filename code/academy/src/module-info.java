@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author alessandrosallese
- *
- */
-module academy {
-}
