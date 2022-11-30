@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>it.ntt.academy</groupId>
-    <artifactId>SpringBootDataJpa</artifactId>
+    <artifactId>SpringBootDataJsp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>SpringBootDataJpa</name>
+    <name>SpringBootDataJsp</name>
     <description>
         Demo project for Spring Boot Data JPA integration
     </description>
@@ -19,7 +19,9 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
-
+    // SP Standard Tag Library
+    // Per creare cicli all'interno delle jsp
+    // un foreach
     <dependencies>  
         <dependency>
             <groupId>jstl</groupId>
@@ -44,6 +46,8 @@
             <scope>runtime</scope>
             <optional>true</optional>
         </dependency>
+
+        // Creazione di un pool di connessioni sempre aperte
         <dependency>
             <groupId>commons-dbcp</groupId>
             <artifactId>commons-dbcp</artifactId>
